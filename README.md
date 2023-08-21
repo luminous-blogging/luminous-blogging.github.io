@@ -19,7 +19,7 @@
 - [木屋博客-以梦为马-书写韵华,分享生活的点滴。](https://www.mwbo.com/)
 - [一个小破博客](https://iktao.cn/)
 - [Zwh's Blog](https://blog.zwh.best/)
-- [霂森西 | 櫻玲桉](https://dlizi.com/)
+- [霂森西 櫻玲桉](https://dlizi.com/)
 - [『念念不忘，必有回响』](https://nekox.cn/)
 - [Caviar-X的个人主页\~~~](https://caviar-x.top/)
 - [一只假裝是貓的鴿子（](https://blog.nekohuan.cyou/)
