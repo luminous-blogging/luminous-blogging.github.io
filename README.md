@@ -1,7 +1,7 @@
 # Luminous.
 > 一个普通的联盟，以及一群小伙伴（鸽子）们。
 ## 参与者（不分前后顺序）
-- [一个普通的博客.](https://idream.ink/)
+- [一个普通的博客.](https://dreamo.ink/)
 - [yuanenen的blog](https://blog.xyst.top/)
 - [Grassblock](https://imgb.space/)
 - [ダメなやつ！](https://omoi.cc/)
