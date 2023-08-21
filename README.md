@@ -1,6 +1,7 @@
 # Luminous.
 > 一个普通的联盟，以及一群小伙伴（鸽子）们。
 ## 参与者（不分前后顺序）
+- [煎饼果子](https://blog.moej.cn/))
 - [一个普通的博客.](https://dreamo.ink/)
 - [yuanenen的blog](https://blog.xyst.top/)
 - [Grassblock](https://imgb.space/)
@@ -25,4 +26,4 @@
 - [一只假裝是貓的鴿子（](https://blog.nekohuan.cyou/)
 - [只是随便写写......](https://blog.lijiakaijun.cyou/)
 - [Everything is a story](https://7ity.codes/)
-- [基地-银河的边缘](https://foundation.othing.xyz/)
+- [基地-银河的边缘](https://sci-fic.xyz/)
