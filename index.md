@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Luminous
+title: 主页
 ---
 
 # Luminous.
