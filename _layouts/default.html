@@ -9,10 +9,10 @@
 
     <!-- MDUI CSS -->
     <link rel="stylesheet" href="https://unpkg.com/mdui@1.0.2/dist/css/mdui.min.css"/>
-    <title>Hello, world!</title>
+    <title>{% if page.title %}{{ page.title }}{% endif %} - Luminous.</title>
 </head>
-<body class="mdui-theme-layout-auto mdui-color-yellow-accent">
-<article class="content">
+<body class="mdui-theme-layout-auto mdui-color-accent-yellow">
+<article class="content mdui-typo">
     {{ content }}
 </article>
 <!-- MDUI JavaScript -->
