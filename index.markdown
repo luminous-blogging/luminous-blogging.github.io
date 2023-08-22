@@ -32,3 +32,5 @@ title: 主页
 - [只是随便写写......](https://blog.lijiakaijun.cyou/)
 - [Everything is a story](https://7ity.codes/)
 - [基地-银河的边缘](https://sci-fic.xyz/)
+## 加入及贡献
+请参考这篇[文档](https://github.com/Ninjiaazz/luminous-blogging.github.io/blob/main/README.md)
