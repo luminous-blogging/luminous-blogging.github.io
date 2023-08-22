@@ -23,9 +23,9 @@ jobs:
           # The remote ref name to use. 'mirror' by default. Useful to avoid conflicts with existing remotes.
           REMOTE_NAME: bmirror # optional
           # The remote repository e.g. https://github.com/octocat/foo.git or git@github.com:octocat/foo.git
-          REMOTE: https://bitbucket.org/Grass_block/luminous.git # optional
+          REMOTE: https://Grass_block@bitbucket.org/Grass_block/luminous.git # optional
           # Username for remote repository
           GIT_USERNAME: Grass_block # optional
           # The git https password or token for the remote repository
-          GIT_PASSWORD: ${{ secrets.BITBUCKRT_PASS }} # optional
+          GIT_PASSWORD: ${{ secrets.BITBUCKET_PASS }} # optional
           DEBUG: true
