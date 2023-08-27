@@ -11,10 +11,25 @@
     <link rel="stylesheet" href="https://unpkg.com/mdui@1.0.2/dist/css/mdui.min.css"/>
     <title>{% if page.title %}{{ page.title }}{% endif %} - Luminous.</title>
 </head>
-<body class="mdui-theme-layout-auto mdui-theme-accent-yellow-a700">
-<article class="content mdui-typo">
+<body class="mdui-theme-layout-auto mdui-theme-accent-amber">
+<div class="mdui-appbar mdui-shadow-0">
+    <div class="mdui-toolbar">
+        <a href="javascript:;" class="mdui-btn mdui-btn-icon">
+            <i class="mdui-icon material-icons">menu</i>
+        </a>
+        <a href="#" class="mdui-typo-title">Luminous.</a>
+        <div class="mdui-toolbar-spacer"></div>
+    </div>
+</div>
+<article class="content mdui-typo mdui-container">
     {{ content }}
 </article>
+<footer class="mdui-center mdui-container">
+    <div class="mdui-typo">
+        <hr/>
+        <p>© 2021-2023 Luminous. All rights reserved.</p>
+    </div>
+</footer>
 <!-- MDUI JavaScript -->
 <script src="https://unpkg.com/mdui@1.0.2/dist/js/mdui.min.js"></script>
 </body>
